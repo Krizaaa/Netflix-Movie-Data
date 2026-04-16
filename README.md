@@ -14,3 +14,7 @@ Python
 ## Concepts
 - Data Manipulation using Pandas and Numpy
 - Data Visualization with matplotlib 
+
+# Links 
+- [Career Track](https://app.datacamp.com/learn/career-tracks/data-analyst-with-python)
+- [Project](https://app.datacamp.com/learn/projects/investigating_netflix/guided/Python) 

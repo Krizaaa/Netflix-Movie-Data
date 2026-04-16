@@ -2,7 +2,7 @@
 A series of projects I completed while following the DataCamp Data Scientist with Python [**Data Scientist with Python**](https://app.datacamp.com/learn/career-tracks/data-scientist-with-python)
 
 ## 🎯 Objective of the project 
-The objective of this project is to explore Netflix’s dataset in order to identify patterns in content type, expansion and duration, and to better understand its content strategy.
+This project is about cleaning data filtering it and finding insights from real-world datasets, by answering specific analytical questions.
 
 ## Tools
 - Python
